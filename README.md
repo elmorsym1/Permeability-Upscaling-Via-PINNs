@@ -1,1 +1,1 @@
-# Test
+# Permeability Upscaling Via PINNs
