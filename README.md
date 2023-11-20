@@ -11,9 +11,9 @@ This data repository contains the simulation results and data presented in the p
   	- Compiling scripts for levels 0 & 1: "compile_data_L01.ipynb"
   	- Compiling scripts for levels 1 & 2: "compile_predicted_data_L12.ipynb"
   	- PINN-1 training script: "pinn1_train.ipynb"
-    	- PINN-2 training script: "pinn2_train.ipynb"
-    	- PINNs inference script for 1st level of permeability upscaling: "pinn_predict_L01.ipynb"
-    	- PINNs inference script for 2nd level of permeability upscaling: "pinn_predict_L12.ipynb"
+  	- PINN-2 training script: "pinn2_train.ipynb"
+  	- PINNs inference script for 1st level of permeability upscaling: "pinn_predict_L01.ipynb"
+  	- PINNs inference script for 2nd level of permeability upscaling: "pinn_predict_L12.ipynb"
     
 - The raw CT rock cores are obtained from the [Imperial Colloge London portal](https://www.imperial.ac.uk/earth-science/research/research-groups/pore-scale-modelling/micro-ct-images-and-networks/).
 
