@@ -29,6 +29,6 @@ A patent has been filed to protect the developed algorithm.
 
 This work has been accepted for publishing by the American Geophysical Union flagship journal: Water Rseourses Research.
 
-Paper link: [Rapid Permeability Upscaling of Digital Porous Media via Physics-informed Neural Networks](To be provided after publication).
+Paper link: Tobe provided post official publication.
 
 For more information, please contact the repository owner at: elmorsym777@gmail.com
