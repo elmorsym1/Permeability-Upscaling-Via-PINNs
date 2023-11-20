@@ -6,7 +6,7 @@ This data repository contains the simulation results and data presented in the p
 
 - In general, the data included in this repository are,
 	- Numerical simulation results for rock samples located at folder: "sim_results"
- 	- Digital rock samples include,
+ 	- Digital rock samples include:
   		- Benthimer Sandstone
     		- Ketton Limestone
       		- Berea Sandstone 
