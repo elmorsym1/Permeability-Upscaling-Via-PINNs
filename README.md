@@ -2,6 +2,8 @@
 
 This data repository contains the simulation results and data presented in the paper "Elmorsy et al. Rapid Permeability Upscaling of Digital Porous Media via Physics-informed Neural Networks".
 
+**Data and Scripts:**
+
 In general, the data included in this repository are,
 	- Numerical simulation results for Benthimer Sandstone, Ketton Limestone and Berea Sandstone samples located at folder: "sim_results".
  	- Predicted permeability results using the approximate analytical solution, pinn-1 and pinn-2 located at folder: "sim_results_predicted".
@@ -14,6 +16,8 @@ In general, the data included in this repository are,
     	- PINNs inference script for 2nd level of permeability upscaling: "pinn_predict_L12.ipynb".
     
 The raw CT rock cores are obtained from the [Imperial Colloge London portal](https://www.imperial.ac.uk/earth-science/research/research-groups/pore-scale-modelling/micro-ct-images-and-networks/).
+
+This work has been accepted for publishing by the American Geophysical Union flagship journal: Water Rseourses Research.
 
 Paper link: [Rapid Permeability Upscaling of Digital Porous Media via Physics-informed Neural Networks](To be provided after publication).
 
