@@ -7,9 +7,9 @@ This data repository contains the simulation results and data presented in the p
 - In general, the data included in this repository are,
 	- Numerical simulation results for rock samples located at folder: "sim_results"
  	- Digital rock samples include,
- 		- Benthimer Sandstone
-   		- Ketton Limestone
-     		- Berea Sandstone 
+  		- Benthimer Sandstone
+    		- Ketton Limestone
+      		- Berea Sandstone 
  	- Predicted permeability results using the approximate analytical solution, pinn-1 and pinn-2 located at folder: "sim_results_predicted"
   	- Compiled data results for multiple levels (i.e., 0,1 and 2) are generated and stoed at folder: "data"
   	- Compiling scripts for levels 0 & 1: "compile_data_L01.ipynb"
