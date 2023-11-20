@@ -2,7 +2,7 @@
 
 This data repository contains the simulation results and data presented in the paper "Elmorsy et al. Rapid Permeability Upscaling of Digital Porous Media via Physics-informed Neural Networks".
 
-In general, the data included in this repository are:
+In general, the data included in this repository are,
 	- Numerical simulation results for Benthimer Sandstone, Ketton Limestone and Berea Sandstone samples located at folder: "sim_results".
  	- Predicted permeability results using the approximate analytical solution, pinn-1 and pinn-2 located at folder: "sim_results_predicted".
     	- Compiled data results for multiple levels (i.e., 0,1 and 2) are generated and stoed at folder: "data".
