@@ -27,7 +27,7 @@ Numerical simulations of the 3D porous media samples were conducted using OpenFO
 
 A patent has been filed to protect the developed algorithm.
 
-This work has been accepted for publishing by the American Geophysical Union flagship journal: Water Rseourses Research.
+This work has been accepted for publishing by the American Geophysical Union flagship journal: [Water Rseourses Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973).
 
 Paper link: Tobe provided post official publication.
 
