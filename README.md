@@ -21,7 +21,9 @@ This data repository contains the simulation results and data presented in the p
     
 - The raw CT rock cores are obtained from the [Imperial Colloge London portal](https://www.imperial.ac.uk/earth-science/research/research-groups/pore-scale-modelling/micro-ct-images-and-networks/).
 
-Numerical simulations of the 3D porous media samples were conducted using OpenFOAM®, which is an open-source set of solvers for CFD simulations (Horgue et al., 2015). The analytical solutions are developed using the symbolic computation solver SymPy 1.10.1 in Python 3.9.12. We train the machine learning model using the open-source software interface Keras 2.4.0 and TensorFlow 2.3.1 on NVIDIA GeForce RTX 2080 Ti GPUs. Figures were made with Matplotlib 3.5.1, available under the Matplotlib license at https://matplotlib.org/ A patent has been filed to protect the developed algorithm.
+Numerical simulations of the 3D porous media samples were conducted using OpenFOAM®, which is an open-source set of solvers for CFD simulations (Horgue et al., 2015). The analytical solutions are developed using the symbolic computation solver SymPy 1.10.1 in Python 3.9.12. We train the machine learning model using the open-source software interface Keras 2.4.0 and TensorFlow 2.3.1 on NVIDIA GeForce RTX 2080 Ti GPUs. Figures were made with Matplotlib 3.5.1, available under the Matplotlib license at https://matplotlib.org/. 
+
+A patent has been filed to protect the developed algorithm.
 
 This work has been accepted for publishing by the American Geophysical Union flagship journal: Water Rseourses Research.
 
